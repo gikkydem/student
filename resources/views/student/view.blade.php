@@ -19,7 +19,7 @@
         @endif
 
         <table class="table table-bordered w-50 table-success mx-auto mt-5 caption-top align-middle">
-            <caption> <a href="{{ route('student.create') }}" class="btn btn-success">add recored</a> </caption>
+            <caption> <a href="{{ route('student.create') }}" class="btn btn-success">Add Recored</a> </caption>
             <thead>
                 <tr>
                     <th>Id</th>
